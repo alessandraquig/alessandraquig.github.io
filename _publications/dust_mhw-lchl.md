@@ -5,7 +5,7 @@ authors: Alessandra Quigley, Paul Lerner, Camila Artana, Anastasia Romanou
 category: manuscripts
 permalink: 
 excerpt: 'We assess when and where dust is associated with MHW-LChl compound extremes, how those effects differ with the effects on single MHW and LChl extremes, and whether those effects are caused by dust or controlled by other dynamics.'
-date: In preparation
+date: 'In preparation'
 venue: 
 slidesurl: 
 paperurl: 
