@@ -5,6 +5,11 @@ var addressPoints = [
     -122.4075201
   ],
   [
+    "How Does Dust Modify Marine Heatwave-Low Chlorophyll Compound Extremes?<br />Ocean Sciences Meeting 2026; Glasgow, UK",
+    55.861155,
+    -4.2501687
+  ],
+  [
     "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
     51.5074456,
     -0.1277653
