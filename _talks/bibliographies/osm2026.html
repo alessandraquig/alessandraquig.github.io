@@ -2,6 +2,20 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 <title>Bibliography</title>
+
+<style>
+/* number bibliography entries using CSS counter */
+.csl-bib-body { counter-reset: csl-bib; line-height: 2; margin-left: 2em; }
+.csl-entry { display: block; counter-increment: csl-bib; text-indent: -2em; padding-left: 2.5em; position: relative; }
+.csl-entry::before {
+  content: counter(csl-bib) ". ";
+  position: relative;
+  left: 0;
+  width: 2em;
+  text-align: right;
+}
+</style>
+
 </head>
 <body>
 <div class="csl-bib-body" style="line-height: 2; margin-left: 2em; text-indent:-2em;">
