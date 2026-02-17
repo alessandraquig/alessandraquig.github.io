@@ -1,11 +1,12 @@
 ---
 title: "How Does Dust Modify Marine Heatwave-Low Chlorophyll Compound Extremes?"
 collection: publications
+date: 2026-12-31
 authors: Alessandra Quigley, Paul Lerner, Camila Artana, Anastasia Romanou
 category: manuscripts
 permalink:
 excerpt: 'We assess when and where dust is associated with MHW-LChl compound extremes, how those effects differ with the effects on single MHW and LChl extremes, and whether those effects are caused by dust or controlled by other dynamics.'
-venue: 
+venue: 'In preparation'
 slidesurl: 
 paperurl: 
 bibtexurl: 

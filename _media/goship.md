@@ -1,13 +1,14 @@
 ---
-title: "GoShip"
-collection: "media"
+title: "GO-SHIP I09N"
+collection: media
 permalink: /media/go-ship
 date: 2025-04-15
+excerpt: "I wrote a blog post while working as a CTD operator on a GO-SHIP cruise about how we kept ourselves entertained at sea."
 ---
 
 {% include base_path %}
 
-Here's the [blog post](https://www.go-bgc.org/expedition/indian-2025/fun-and-games) I wrote while working as a CTD operator on a GO-SHIP cruise.
+[Link to the original blog post](https://www.go-bgc.org/expedition/indian-2025/fun-and-games)
 
 ## It's All Fun and Games
 
@@ -15,7 +16,7 @@ We're getting into our fourth week aboard the R/V Thompson; here's a look at wha
 
 ### Monopoly Deal
 
-Most of the time, everyone gets along here. Not so during this game – we have vendettas. Much like the eponymous board game (although MUCH shorter), this game involves making sets of properties and using them to gleefully rob your friends. There are long-standing rivalries among the crew (and a twice-daily scheduled game), and the crew has been kind enough to let scientists in on the cutthroat fun. I've made most of my frenemies this way.
+Most of the time, everyone gets along here. Not so during this game – we have _vendettas_. Much like the eponymous board game (although MUCH shorter), this game involves making sets of properties and using them to gleefully rob your friends. There are long-standing rivalries among the crew (and a twice-daily scheduled game), and the crew has been kind enough to let scientists in on the cutthroat fun. I've made most of my frenemies this way.
 
 ![A photo of two crew playing Monopoly Deal with a sprite can on the table. The daily Deal game. Photo taken by Songying (Tina) Tang.](https://www.go-bgc.org/wp-content/uploads/2025/04/monopoly_deal-scaled.jpg)
 *The daily Deal game. Photo taken by Songying (Tina) Tang.*
@@ -29,14 +30,14 @@ This is a classic sailor's game, and I see why. It's the exact entertainment val
 
 ### Wacky rituals and traditions
 
-I shouldn't have been surprised that mariners in general and Thompson mariners in particular have a lot of interesting traditions. During our deepest cast (the seafloor was 6280m, but we sent the CTD down to 6000m), we decorated styrofoam cups and attached them to the CTD in a bag. The pressure squeezes the styrofoam, and it comes back much smaller and usually a little wonky. So many people are talented artists (I, alas, am not one of those people), so the big reveal of everyone's shrunken drawings was quite impressive. We did the same thing at our equator crossing (around 4000m), but to my chagrin, there's no consistent difference in size. I have it on good authority that max squish occurs around 1500m, and anything beyond that is just for street cred.
+I shouldn't have been surprised that mariners in general and _Thompson_ mariners in particular have a lot of interesting traditions. During our deepest cast (the seafloor was 6280m, but we sent the CTD down to 6000m), we decorated styrofoam cups and attached them to the CTD in a bag. The pressure squeezes the styrofoam, and it comes back much smaller and usually a little wonky. So many people are talented artists (I, alas, am not one of those people), so the big reveal of everyone's shrunken drawings was quite impressive. We did the same thing at our equator crossing (around 4000m), but to my chagrin, there's no consistent difference in size. I have it on good authority that max squish occurs around 1500m, and anything beyond that is just for street cred.
 
 ![Alessandra's shrunken cups which may turn into Christmas ornaments](https://www.go-bgc.org/wp-content/uploads/2025/04/cups-scaled.jpg)
 *Alessandra's shrunken cups which may turn into Christmas ornaments – photo by Alessandra Quigley*
 
 ### Crossing the Equator
 
-Speaking of equator crossings, my favourite tradition has been the shellback ceremony. In sailor jargon, a pollywog is a person who has never crossed the equator on a boat, and a shellback is someone who has (Imagine my annoyance when I found out that my landlubber partner became a shellback as a kid by taking a quick day trip from Singapore! That shouldn't count!), so the shellbacks and crew make the wogs jump through a few hoops to "prove our worth" to Neptune. To those who passed this initiation in ye olden days, you may be surprised that I count this among my favourites. Legend has it that it used to involve rotten food and scalp sunburns, but nowadays it's a lighthearted and fun equator crossing ceremony.
+Speaking of equator crossings, my favourite tradition has been the shellback ceremony. In sailor jargon, a pollywog is a person who has never crossed the equator on a boat, and a shellback is someone who has (Imagine my annoyance when I found out that my landlubber partner became a shellback as a kid by taking a quick day trip from Singapore! That shouldn't count!), so the shellbacks and crew make the wogs jump through a few hoops to "prove our worth" to Neptune. To those who passed this initiation in _ye olden days_, you may be surprised that I count this among my favourites. Legend has it that it used to involve rotten food and scalp sunburns, but nowadays it's a lighthearted and fun equator crossing ceremony.
 
 We channelled our inner high schoolers and had to carry an egg around for the week, under penalty of apology haiku to Neptune if you lost it – there was a lot of wog-on-wog crime, and many eggs were stolen/hidden. It's still unclear whether our CTD engineer "found" a load of them at her research station or stole them herself. But the best part was a talent show! We had to impress Neptune and affiliates (who had great costumes, including ersatz togas and an incongruous but very fashionable fez) with our acts, which included an interpretive dance inspired by floating plastic, a Houdini-esque straitjacket escape, and my rap parody of "I'm on a Boat." I'm happy enough to let my shouty rap performance fade into obscurity, but I'm quite proud of my lyrics, so here they are:
 
